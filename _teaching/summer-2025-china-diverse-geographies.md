@@ -1,4 +1,3 @@
-
 ---
 title: "GEOG 3822: China’s Diverse Geographies: Environment, Society, Politics"
 collection: teaching
