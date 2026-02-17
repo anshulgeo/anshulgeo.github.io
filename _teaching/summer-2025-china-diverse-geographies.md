@@ -4,6 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 term: "Summer 2025"
 institution: "University of Colorado Boulder"
+date: 2025-06-01
 permalink: /teaching/summer-2025-china-diverse-geographies/
 author_profile: true
 ---
