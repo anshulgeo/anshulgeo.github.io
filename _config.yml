@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Anshul's homepage"
+title                    : "Anshul Rai Sharma"
 title_separator          : "-"
 name                     : &name "Anshul"
-description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Human Geographer | Urban Studies | Bengaluru | University of Colorado Boulder"  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://anshulgeo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -155,9 +155,12 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person 
+  name                   : "Anshul Rai Sharma"
+  links: 
+    - https://scholar.google.com/citations?user=TS6tXBIAAAAJ
+    - https://orcid.org/0009-0006-4126-491X
+    - https://www.linkedin.com/in/anshul-rai-9581161b1/
 
 
 # Analytics
